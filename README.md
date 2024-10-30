@@ -1,6 +1,6 @@
-# Repositu
+# iPositor
 
-# The AI Assistant That Lives in Your Code.
+_The Assistant Within_ (...your project repository)
 
 # Features
 
@@ -8,7 +8,7 @@
 2. It Clones, Installs, & Runs (Based On Readme Instructions), safely
 3. Ask Questions, Make Changes, Interact With The Repository (and commit changes)
 
-# reposit
+# Running The Development Environment
 
 An Electron application with React
 
